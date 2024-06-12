@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.11fcb524.css",
-    "main.js": "./static/js/main.89044d8d.js",
+    "main.css": "./static/css/main.a44174d5.css",
+    "main.js": "./static/js/main.9870b237.js",
     "static/media/accessories.png": "./static/media/accessories.c89ddada842650221bb3.png",
     "static/media/tablets.png": "./static/media/tablets.ab919a9be70a5a66bd8c.png",
     "static/media/mobile_phone.png": "./static/media/mobile_phone.9d91280e3963442a3dc2.png",
@@ -31,14 +31,15 @@
     "static/media/arrow-right.svg": "./static/media/arrow-right.70f42d77d4895623e71b.svg",
     "static/media/arrow-down-active.svg": "./static/media/arrow-down-active.1a31b7baa2f0e110955a.svg",
     "static/media/arrow-down.svg": "./static/media/arrow-down.69b81970f704d3851703.svg",
+    "static/media/empty_cart.svg": "./static/media/empty_cart.91c76b1d25caa06c194a.svg",
     "static/media/minus-active.svg": "./static/media/minus-active.d4525505697187584794.svg",
     "index.html": "./index.html",
     "static/media/minus.svg": "./static/media/minus.cecb4be39afa7b933ec1.svg",
-    "main.11fcb524.css.map": "./static/css/main.11fcb524.css.map",
-    "main.89044d8d.js.map": "./static/js/main.89044d8d.js.map"
+    "main.a44174d5.css.map": "./static/css/main.a44174d5.css.map",
+    "main.9870b237.js.map": "./static/js/main.9870b237.js.map"
   },
   "entrypoints": [
-    "static/css/main.11fcb524.css",
-    "static/js/main.89044d8d.js"
+    "static/css/main.a44174d5.css",
+    "static/js/main.9870b237.js"
   ]
 }
